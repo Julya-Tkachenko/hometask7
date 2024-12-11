@@ -1,3 +1,4 @@
+'Use strict'
 // Переписати код нижче з використанням конструкції switch…case:
 
 // const numOrStr = prompt('input number or string');
